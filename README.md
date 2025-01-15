@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **praveenpu46@gmail.com**
 
-- 📄 Know about my experiences Click here for my resume (https://drive.google.com/file/d/1k9EuZrt1f6QWkpmX4tgbmGt0gwA-4JwS/view?usp=sharing)
+- 📄 My Resume here -> (https://drive.google.com/file/d/1k9EuZrt1f6QWkpmX4tgbmGt0gwA-4JwS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
