@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenn1&label=Profile%20views&color=0e75b6&style=flat" alt="praveenn1" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15)"><img src="https://github-profile-trophy.vercel.app/?username=praveenn1" alt="praveenn1" /></a> </p>
 
 - 🔭 I’m currently working on [brewnbrew](https://github.com/PraveenN1/Cafe_App)
 
