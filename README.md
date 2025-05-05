@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **NextJS,ReactJS and others**
 
-- 💬 Ask me about **reactjs,nextjs,js**
+- 💬 Ask me about **reactjs,nodejs,js**
 
 - 📫 How to reach me **praveenpu46@gmail.com**
-
-- 📄 My Resume here -> (https://drive.google.com/file/d/1k9EuZrt1f6QWkpmX4tgbmGt0gwA-4JwS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
