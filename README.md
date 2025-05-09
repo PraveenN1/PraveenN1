@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenn1&label=Profile%20views&color=0e75b6&style=flat" alt="praveenn1" /> </p>
 
 
-- 🔭 I’m currently working on [brewnbrew](https://github.com/PraveenN1/Cafe_App)
+- 🔭 I’m currently working on [brewnbrew]([Nexsly - Social Media Platform](https://github.com/PraveenN1/Nexsly))
 
 - 🌱 I’m currently learning **NextJS,ReactJS and others**
 
